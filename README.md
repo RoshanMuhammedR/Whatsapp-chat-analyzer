@@ -40,10 +40,10 @@ Analyze emoji usage in the chat, providing insights into the emotions and expres
 
 ## Getting Started
 
-###method 1: 
+### method 1: 
 [Direct Link](https://whatsapp-chat-analyzer-xyyx5udckltdqsuebjophf.streamlit.app/)
 
-###method 2:
+### method 2:
 install manually
 1. Clone the repository:
 
