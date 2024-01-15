@@ -60,5 +60,7 @@ install manually
    ```bash
    streamlit run app.py
 
+4. Open your browser and navigate to http://localhost:8501 to use the WhatsApp Chat Analyzer.
+
 
 
