@@ -48,7 +48,7 @@ install manually
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/whatsapp-chat-analyzer.git
+   git clone https://github.com/RoshanMuhammedR/whatsapp-chat-analyzer.git
 
 2. Install the required dependencies:
 
@@ -58,7 +58,7 @@ install manually
 3. Run the application:
 
    ```bash
-   streamlit run whatsapp_chat_analyzer.py
+   streamlit run app.py
 
 
 
