@@ -50,14 +50,15 @@ install manually
    ```bash
    git clone https://github.com/yourusername/whatsapp-chat-analyzer.git
 
-2.Install the required dependencies
-  
-  ```bash
-  pip install -r requirements.txt
+2. Install the required dependencies:
 
-3.Run the application
+   ```bash
+   pip install -r requirements.txt
 
-  ```bash
-  streamlit run whatsapp_chat_analyzer.py
+3. Run the application:
+
+   ```bash
+   streamlit run whatsapp_chat_analyzer.py
+
 
 
