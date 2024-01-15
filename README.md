@@ -41,7 +41,7 @@ Analyze emoji usage in the chat, providing insights into the emotions and expres
 ## Getting Started
 
 ### method 1: 
-[Direct Link](https://whatsapp-chat-analyzer-xyyx5udckltdqsuebjophf.streamlit.app/)
+click this link-->[Direct Link](https://whatsapp-chat-analyzer-xyyx5udckltdqsuebjophf.streamlit.app/)
 
 ### method 2:
 install manually
