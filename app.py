@@ -93,7 +93,7 @@ if uploaded_file is not None:
             st.title('Most Busy User')
             x,new_df = helper.most_busy_user(df)
             fig,ax = plt.subplots()
-
+            new_df.rename({'percent':'name','count':'percent'})
             col1, col2 = st.columns(2)
 
             with col1:
@@ -104,7 +104,7 @@ if uploaded_file is not None:
             with col2:
                 st.dataframe(new_df)
 
-        #Wordclud
+        #Wordcloud
         st.title('Worldcloud')
         df_wc = helper.create_wordcloud(selected_user,df)
         fig, ax = plt.subplots()
