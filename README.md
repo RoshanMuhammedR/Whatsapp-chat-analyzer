@@ -38,10 +38,11 @@ Analyze emoji usage in the chat, providing insights into the emotions and expres
 - [emoji](https://pypi.org/project/emoji/)
 - [pandas](https://pandas.pydata.org/)
 
+
 ## Getting Started
 
 ### method 1: 
-click this link-->[Direct Link](https://whatsapp-chat-analyzer-xyyx5udckltdqsuebjophf.streamlit.app/)
+click this link-->[Direct link](https://whatsapp-chat-analyzer-xyyx5udckltdqsuebjophf.streamlit.app)
 
 ### method 2:
 install manually
